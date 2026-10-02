@@ -1,0 +1,8 @@
+claim_id,application_line,metric,value,unit,target,status,source
+C1,coder,successful_dev_tasks,,,2,MISSING,
+C1,tool_control,successful_dev_tasks,,,2,MISSING,
+C1,chatbot,successful_dev_tasks,,,2,MISSING,
+C2,all,scorer_reproducibility,,,required,MISSING,
+C3,all,logging_completeness,,,required,MISSING,
+C4,all,evaluator_truth_leakage,,,0,MISSING,
+C5,all,failure_classification_available,,,required,MISSING,
